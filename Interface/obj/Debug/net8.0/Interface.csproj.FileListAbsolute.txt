@@ -1,0 +1,15 @@
+/Users/radans/Projects/Interface/bin/Debug/net8.0/Interface
+/Users/radans/Projects/Interface/bin/Debug/net8.0/Interface.deps.json
+/Users/radans/Projects/Interface/bin/Debug/net8.0/Interface.runtimeconfig.json
+/Users/radans/Projects/Interface/bin/Debug/net8.0/Interface.dll
+/Users/radans/Projects/Interface/bin/Debug/net8.0/Interface.pdb
+/Users/radans/Projects/Interface/obj/Debug/net8.0/Interface.GeneratedMSBuildEditorConfig.editorconfig
+/Users/radans/Projects/Interface/obj/Debug/net8.0/Interface.AssemblyInfoInputs.cache
+/Users/radans/Projects/Interface/obj/Debug/net8.0/Interface.AssemblyInfo.cs
+/Users/radans/Projects/Interface/obj/Debug/net8.0/Interface.csproj.CoreCompileInputs.cache
+/Users/radans/Projects/Interface/obj/Debug/net8.0/Interface.sourcelink.json
+/Users/radans/Projects/Interface/obj/Debug/net8.0/Interface.dll
+/Users/radans/Projects/Interface/obj/Debug/net8.0/refint/Interface.dll
+/Users/radans/Projects/Interface/obj/Debug/net8.0/Interface.pdb
+/Users/radans/Projects/Interface/obj/Debug/net8.0/Interface.genruntimeconfig.cache
+/Users/radans/Projects/Interface/obj/Debug/net8.0/ref/Interface.dll
