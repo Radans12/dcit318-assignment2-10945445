@@ -1,0 +1,15 @@
+/Users/radans/Projects/AbstractClass/bin/Debug/net8.0/AbstractClass
+/Users/radans/Projects/AbstractClass/bin/Debug/net8.0/AbstractClass.deps.json
+/Users/radans/Projects/AbstractClass/bin/Debug/net8.0/AbstractClass.runtimeconfig.json
+/Users/radans/Projects/AbstractClass/bin/Debug/net8.0/AbstractClass.dll
+/Users/radans/Projects/AbstractClass/bin/Debug/net8.0/AbstractClass.pdb
+/Users/radans/Projects/AbstractClass/obj/Debug/net8.0/AbstractClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/radans/Projects/AbstractClass/obj/Debug/net8.0/AbstractClass.AssemblyInfoInputs.cache
+/Users/radans/Projects/AbstractClass/obj/Debug/net8.0/AbstractClass.AssemblyInfo.cs
+/Users/radans/Projects/AbstractClass/obj/Debug/net8.0/AbstractClass.csproj.CoreCompileInputs.cache
+/Users/radans/Projects/AbstractClass/obj/Debug/net8.0/AbstractClass.sourcelink.json
+/Users/radans/Projects/AbstractClass/obj/Debug/net8.0/AbstractClass.dll
+/Users/radans/Projects/AbstractClass/obj/Debug/net8.0/refint/AbstractClass.dll
+/Users/radans/Projects/AbstractClass/obj/Debug/net8.0/AbstractClass.pdb
+/Users/radans/Projects/AbstractClass/obj/Debug/net8.0/AbstractClass.genruntimeconfig.cache
+/Users/radans/Projects/AbstractClass/obj/Debug/net8.0/ref/AbstractClass.dll
